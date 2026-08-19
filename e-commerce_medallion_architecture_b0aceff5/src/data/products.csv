@@ -1,0 +1,501 @@
+product_id,product_name,category,price,cost,stock_quantity,reorder_level
+1,Ultra High-Performance T-Shirt,Clothing,130.0,57.44,135,27
+2,Premium Lightweight Jeans,Clothing,25.57,10.95,607,121
+3,Professional Lightweight Backpack,Sports & Outdoors,285.01,175.23,231,46
+4,Premium Digital Energy Drink,Food & Beverage,298.74,192.04,531,106
+5,Premium High-Performance Monitor,Electronics,176.72,78.93,696,139
+6,Premium Wireless Novel,Books,57.39,37.55,455,91
+7,Premium Smart Desk Organizer,Office Supplies,272.75,188.73,9,1
+8,Ultra Durable Shampoo,Beauty & Personal Care,416.41,243.83,8,1
+9,Professional Digital Self-Help Book,Books,32.45,15.2,712,142
+10,Professional Digital Board Game,Toys & Games,196.26,105.2,351,70
+11,Ultra Premium Textbook,Books,112.66,54.09,836,167
+12,Durable Jacket Pro,Clothing,90.07,46.28,123,24
+13,Ultra Heavy-Duty Tea,Food & Beverage,423.0,267.67,880,176
+14,Premium Premium Basketball,Sports & Outdoors,141.19,65.41,432,86
+15,Premium Digital Desk Organizer,Office Supplies,203.86,137.48,710,142
+16,Advanced Phone Mount Pro,Automotive,130.85,74.38,135,27
+17,Ergonomic Building Blocks Plus,Toys & Games,205.71,95.82,489,97
+18,Professional Wireless Clock,Home & Garden,431.94,192.58,72,14
+19,Professional Lightweight Mirror,Home & Garden,198.54,114.91,234,46
+20,Professional Durable Dash Cam,Automotive,343.34,149.14,392,78
+21,Ultra Heavy-Duty Snack Pack,Food & Beverage,64.66,34.3,91,18
+22,Ultra High-Performance Car Charger,Automotive,486.23,305.64,748,149
+23,Ultra Heavy-Duty Coffee,Food & Beverage,422.42,233.3,825,165
+24,Premium Yoga Mat Pro,Sports & Outdoors,274.3,173.79,104,20
+25,Ultra Lightweight Coffee,Food & Beverage,249.42,108.14,105,21
+26,Professional Digital Cookbook,Books,128.03,73.0,320,64
+27,Premium High-Performance Jeans,Clothing,409.85,284.19,376,75
+28,Premium Portable Tea,Food & Beverage,473.96,213.06,902,180
+29,Ergonomic Protein Bar Pro,Food & Beverage,465.17,291.47,306,61
+30,Premium Advanced Water Bottle,Sports & Outdoors,497.62,296.07,140,28
+31,Wireless Air Freshener Pro,Automotive,120.1,60.22,391,78
+32,Digital File Folder Plus,Office Supplies,117.91,49.68,792,158
+33,Professional Wireless Webcam,Electronics,431.22,181.65,832,166
+34,Premium Heavy-Duty Dumbbell,Sports & Outdoors,114.98,50.56,771,154
+35,Compact File Folder Pro,Office Supplies,394.46,253.34,895,179
+36,Premium Wireless Basketball,Sports & Outdoors,183.61,96.09,136,27
+37,Premium Smart Keyboard,Electronics,366.82,234.83,656,131
+38,Digital Shoes Pro,Clothing,272.78,120.58,693,138
+39,Compact Curtains Pro,Home & Garden,438.5,185.32,146,29
+40,Smart Coffee Plus,Food & Beverage,419.65,289.85,70,14
+41,Premium Ergonomic Yoga Mat,Sports & Outdoors,245.87,162.13,543,108
+42,Professional Ergonomic Monitor,Electronics,492.8,236.33,576,115
+43,Ergonomic Dash Cam Plus,Automotive,334.32,182.54,8,1
+44,Professional Digital Dumbbell,Sports & Outdoors,293.8,165.31,624,124
+45,Smart Novel Plus,Books,243.63,164.65,665,133
+46,Smart Tea Plus,Food & Beverage,49.25,22.45,168,33
+47,Heavy-Duty Notebook Pro,Office Supplies,207.85,141.85,450,90
+48,Lightweight Pen Set Plus,Office Supplies,29.47,12.51,359,71
+49,Ultra Durable File Folder,Office Supplies,468.01,215.88,739,147
+50,Premium Advanced Textbook,Books,74.13,44.01,218,43
+51,Professional Wireless Dash Cam,Automotive,234.56,164.08,643,128
+52,Durable Jeans Pro,Clothing,257.88,113.4,766,153
+53,Ultra Digital Novel,Books,149.64,79.53,155,31
+54,Lightweight Snack Pack Plus,Food & Beverage,13.83,8.92,941,188
+55,Ultra Portable Board Game,Toys & Games,66.56,28.76,421,84
+56,Ultra Advanced Tea,Food & Beverage,306.37,188.5,630,126
+57,Ultra Heavy-Duty Water Bottle,Sports & Outdoors,257.65,122.47,703,140
+58,Premium Heavy-Duty Keyboard,Electronics,416.38,172.06,453,90
+59,Ultra Heavy-Duty Textbook,Books,89.18,47.49,880,176
+60,Professional Smart Soap,Beauty & Personal Care,46.87,31.17,222,44
+61,Premium Lamp Plus,Home & Garden,280.74,148.49,88,17
+62,Professional Premium Headphones,Electronics,450.47,208.58,918,183
+63,Ultra Wireless Water Bottle,Sports & Outdoors,392.26,260.95,102,20
+64,High-Performance Soap Pro,Beauty & Personal Care,463.62,218.37,143,28
+65,Professional Ergonomic Cushion,Home & Garden,97.89,66.31,770,154
+66,Advanced Lotion Pro,Beauty & Personal Care,395.81,171.16,126,25
+67,Digital Cable Pro,Electronics,410.13,220.69,603,120
+68,Professional Digital Puzzle,Toys & Games,333.42,173.22,747,149
+69,Ultra Advanced Board Game,Toys & Games,324.33,168.62,393,78
+70,Professional Smart Snack Pack,Food & Beverage,439.75,210.36,359,71
+71,Professional Smart Desk Organizer,Office Supplies,302.32,152.28,986,197
+72,Lightweight Biography Plus,Books,66.67,44.66,439,87
+73,Premium Smart Dumbbell,Sports & Outdoors,10.83,7.34,322,64
+74,Premium Premium Tea,Food & Beverage,44.29,26.54,810,162
+75,Professional Premium Self-Help Book,Books,362.68,177.75,143,28
+76,Premium Premium Doll,Toys & Games,351.63,199.14,253,50
+77,Premium Heavy-Duty Tent,Sports & Outdoors,341.89,229.35,283,56
+78,Premium Advanced File Folder,Office Supplies,278.49,111.43,660,132
+79,Ergonomic Puzzle Plus,Toys & Games,307.26,152.61,86,17
+80,Heavy-Duty Air Freshener Pro,Automotive,260.48,166.22,254,50
+81,Advanced Vase Plus,Home & Garden,335.29,196.41,566,113
+82,Ultra Heavy-Duty Shoes,Clothing,120.07,55.2,615,123
+83,Premium Digital Mouse,Electronics,309.52,195.17,614,122
+84,Heavy-Duty Air Freshener Plus,Automotive,105.27,64.1,738,147
+85,Digital Air Freshener Pro,Automotive,331.47,133.14,622,124
+86,Digital Shorts Pro,Clothing,404.01,245.95,291,58
+87,Durable Car Charger Pro,Automotive,459.56,200.56,797,159
+88,Heavy-Duty Clock Plus,Home & Garden,494.07,285.89,963,192
+89,Premium Durable Air Freshener,Automotive,449.63,280.16,707,141
+90,Advanced Air Freshener Pro,Automotive,421.53,203.68,27,5
+91,Heavy-Duty Energy Drink Pro,Food & Beverage,144.55,61.18,868,173
+92,Ultra Advanced Puzzle,Toys & Games,166.66,93.67,867,173
+93,Premium Digital Cushion,Home & Garden,350.04,214.2,674,134
+94,Ultra Ergonomic Shorts,Clothing,275.88,144.76,896,179
+95,Ergonomic Tent Plus,Sports & Outdoors,473.57,192.2,308,61
+96,Professional Compact Stapler,Office Supplies,471.94,231.05,210,42
+97,Durable Perfume Plus,Beauty & Personal Care,401.94,269.04,530,106
+98,Premium Advanced Phone Mount,Automotive,247.96,128.11,621,124
+99,Compact Lotion Pro,Beauty & Personal Care,490.55,274.82,521,104
+100,Professional Lightweight Soap,Beauty & Personal Care,51.13,27.03,193,38
+101,Ultra Smart Phone Mount,Automotive,195.76,90.73,765,153
+102,Ultra Ergonomic Cookbook,Books,378.48,245.85,401,80
+103,Professional Compact Board Game,Toys & Games,377.02,156.7,302,60
+104,Professional Heavy-Duty Textbook,Books,392.8,233.92,661,132
+105,Professional Digital Webcam,Electronics,314.45,148.28,55,11
+106,Lightweight Car Charger Pro,Automotive,237.87,113.43,802,160
+107,Lightweight Textbook Plus,Books,482.23,296.82,919,183
+108,Wireless Curtains Plus,Home & Garden,22.58,11.15,812,162
+109,High-Performance Perfume Pro,Beauty & Personal Care,47.24,28.68,977,195
+110,Ultra High-Performance Basketball,Sports & Outdoors,426.64,247.5,245,49
+111,Premium T-Shirt Plus,Clothing,219.91,112.41,506,101
+112,Premium Smart Snack Pack,Food & Beverage,412.94,178.25,395,79
+113,High-Performance Biography Pro,Books,223.39,138.53,115,23
+114,Premium Durable Building Blocks,Toys & Games,237.79,154.02,246,49
+115,Premium Desk Organizer Pro,Office Supplies,417.06,177.67,511,102
+116,Compact Phone Mount Plus,Automotive,309.06,158.76,653,130
+117,Premium Cable Pro,Electronics,248.9,126.05,608,121
+118,Advanced Action Figure Plus,Toys & Games,353.58,170.74,72,14
+119,Wireless Webcam Pro,Electronics,362.84,198.32,540,108
+120,Premium Compact Water Bottle,Sports & Outdoors,229.61,93.03,910,182
+121,Ergonomic Puzzle Pro,Toys & Games,160.04,91.94,12,2
+122,Ergonomic Dash Cam Plus,Automotive,172.09,105.12,369,73
+123,Advanced Action Figure Pro,Toys & Games,69.12,31.64,956,191
+124,Digital Jacket Pro,Clothing,371.92,179.62,324,64
+125,Ultra Lightweight File Folder,Office Supplies,490.45,318.69,135,27
+126,Premium Puzzle Pro,Toys & Games,158.11,96.83,396,79
+127,Professional Smart Curtains,Home & Garden,281.15,171.28,881,176
+128,Professional Wireless Clock,Home & Garden,291.29,157.54,859,171
+129,Professional Portable Dash Cam,Automotive,133.71,88.05,582,116
+130,Premium Ergonomic Jeans,Clothing,46.3,27.26,430,86
+131,Portable Monitor Plus,Electronics,475.07,202.17,374,74
+132,Premium Durable Basketball,Sports & Outdoors,307.1,195.69,559,111
+133,Premium Ergonomic Backpack,Sports & Outdoors,455.17,222.67,699,139
+134,Advanced Stapler Plus,Office Supplies,314.3,183.2,176,35
+135,Heavy-Duty Shoes Pro,Clothing,139.68,59.27,781,156
+136,Professional Durable Yoga Mat,Sports & Outdoors,86.7,45.31,482,96
+137,Professional Advanced Stapler,Office Supplies,123.42,75.54,977,195
+138,Heavy-Duty Car Charger Pro,Automotive,462.72,294.45,788,157
+139,Professional Ergonomic Pen Set,Office Supplies,276.84,164.52,74,14
+140,Professional Wireless Puzzle,Toys & Games,91.3,44.95,17,3
+141,Professional Compact Desk Organizer,Office Supplies,239.66,117.73,601,120
+142,Durable Face Cream Plus,Beauty & Personal Care,251.96,106.86,69,13
+143,Ultra High-Performance Charger,Electronics,305.82,124.7,14,2
+144,Lightweight Water Bottle Plus,Sports & Outdoors,475.89,333.06,268,53
+145,Smart Building Blocks Pro,Toys & Games,240.55,143.24,220,44
+146,Premium Lightweight Puzzle,Toys & Games,321.04,175.78,40,8
+147,Premium Premium Socks,Clothing,173.32,104.17,944,188
+148,Premium Ergonomic Plant Pot,Home & Garden,151.23,103.37,61,12
+149,Professional Compact Coffee,Food & Beverage,164.11,81.56,971,194
+150,Smart Soap Plus,Beauty & Personal Care,236.37,98.39,808,161
+151,Premium Lightweight Snack Pack,Food & Beverage,316.45,198.73,407,81
+152,Durable Dumbbell Pro,Sports & Outdoors,464.56,246.88,518,103
+153,Smart Car Charger Plus,Automotive,401.66,246.19,293,58
+154,Smart Building Blocks Plus,Toys & Games,209.92,98.12,643,128
+155,Wireless Socks Pro,Clothing,254.2,156.33,729,145
+156,Premium Ergonomic Snack Pack,Food & Beverage,490.32,231.98,513,102
+157,Ergonomic Tea Pro,Food & Beverage,461.72,255.09,785,157
+158,Premium Advanced Vase,Home & Garden,176.54,112.34,425,85
+159,Ultra Advanced Board Game,Toys & Games,420.36,241.28,433,86
+160,Compact Phone Mount Plus,Automotive,247.33,123.6,718,143
+161,Ultra Compact Energy Drink,Food & Beverage,436.1,302.75,411,82
+162,Ergonomic Backpack Pro,Sports & Outdoors,429.45,224.7,84,16
+163,Premium High-Performance Biography,Books,199.18,119.33,655,131
+164,Smart Clock Pro,Home & Garden,256.12,147.8,549,109
+165,Wireless Socks Plus,Clothing,456.12,184.55,550,110
+166,Heavy-Duty Mirror Pro,Home & Garden,46.67,29.61,630,126
+167,Premium Lightweight Action Figure,Toys & Games,328.42,215.29,156,31
+168,Premium Premium Energy Drink,Food & Beverage,437.47,179.7,284,56
+169,Ultra Heavy-Duty Shoes,Clothing,498.74,311.23,85,17
+170,Professional Heavy-Duty Shampoo,Beauty & Personal Care,227.4,138.3,317,63
+171,Professional Premium Mouse,Electronics,153.75,78.79,80,16
+172,Premium Durable Rug,Home & Garden,287.3,183.23,523,104
+173,Wireless Cushion Plus,Home & Garden,436.71,255.87,943,188
+174,Lightweight Tent Pro,Sports & Outdoors,123.77,73.19,208,41
+175,Professional Heavy-Duty Dash Cam,Automotive,450.47,243.06,997,199
+176,Professional Portable Building Blocks,Toys & Games,226.45,114.06,827,165
+177,Premium Heavy-Duty Desk Organizer,Office Supplies,348.25,187.03,159,31
+178,Premium Ergonomic Puzzle,Toys & Games,62.26,32.03,549,109
+179,Ultra Advanced Self-Help Book,Books,20.75,13.47,334,66
+180,Smart Face Cream Plus,Beauty & Personal Care,433.88,274.86,400,80
+181,Advanced Cable Pro,Electronics,307.46,155.48,600,120
+182,Advanced Backpack Pro,Sports & Outdoors,317.84,213.28,649,129
+183,Professional Compact Headphones,Electronics,293.99,182.19,781,156
+184,Premium Premium Sweater,Clothing,96.06,42.23,854,170
+185,Durable Snack Pack Plus,Food & Beverage,457.61,297.05,665,133
+186,Ultra Advanced Doll,Toys & Games,404.07,218.4,697,139
+187,Premium Digital Jacket,Clothing,483.96,310.4,658,131
+188,Professional Ergonomic Novel,Books,139.58,61.01,67,13
+189,Premium Lightweight Cookbook,Books,412.98,281.69,317,63
+190,Professional Compact Shoes,Clothing,313.58,214.16,715,143
+191,Professional Digital Self-Help Book,Books,321.35,173.3,447,89
+192,Wireless Doll Pro,Toys & Games,32.22,13.25,747,149
+193,Wireless Car Charger Pro,Automotive,444.76,196.01,976,195
+194,Heavy-Duty Dash Cam Plus,Automotive,215.37,134.11,866,173
+195,Professional Heavy-Duty Mirror,Home & Garden,418.51,244.7,244,48
+196,Ultra High-Performance Board Game,Toys & Games,116.46,62.12,59,11
+197,Ultra Wireless Dumbbell,Sports & Outdoors,276.79,191.91,250,50
+198,Ultra Ergonomic Novel,Books,103.01,44.98,88,17
+199,Heavy-Duty Car Charger Pro,Automotive,324.44,187.9,946,189
+200,Premium Mouse Pro,Electronics,494.52,314.56,444,88
+201,Durable Basketball Pro,Sports & Outdoors,297.33,191.46,118,23
+202,Portable Dumbbell Plus,Sports & Outdoors,11.39,7.49,464,92
+203,Ultra Durable Cushion,Home & Garden,401.27,173.74,626,125
+204,Ultra Smart Monitor,Electronics,397.09,187.18,623,124
+205,Ultra Portable Novel,Books,35.68,22.21,56,11
+206,Professional High-Performance Coffee,Food & Beverage,243.36,154.15,316,63
+207,Premium Wireless Protein Bar,Food & Beverage,256.88,175.61,682,136
+208,Professional Compact Headphones,Electronics,39.8,21.64,759,151
+209,Professional Heavy-Duty Perfume,Beauty & Personal Care,250.23,168.38,673,134
+210,Premium Jeans Plus,Clothing,82.68,36.2,758,151
+211,Ultra Durable File Folder,Office Supplies,196.64,113.9,179,35
+212,Durable Doll Plus,Toys & Games,220.8,140.85,122,24
+213,Premium Ergonomic Shoes,Clothing,445.16,233.33,12,2
+214,Professional Ergonomic Air Freshener,Automotive,163.15,80.56,724,144
+215,Premium Portable Action Figure,Toys & Games,42.9,27.86,140,28
+216,Ultra Wireless Shorts,Clothing,407.77,231.17,718,143
+217,Ultra Durable File Folder,Office Supplies,338.31,177.02,11,2
+218,Advanced Shampoo Plus,Beauty & Personal Care,163.1,70.31,167,33
+219,Premium Portable Tea,Food & Beverage,119.88,51.84,508,101
+220,Ultra Wireless Snack Pack,Food & Beverage,291.31,187.07,975,195
+221,Lightweight Protein Bar Plus,Food & Beverage,22.86,15.52,355,71
+222,Ultra Portable Board Game,Toys & Games,354.32,174.57,535,107
+223,Smart Cookbook Pro,Books,436.23,248.61,529,105
+224,Professional Portable Shampoo,Beauty & Personal Care,54.96,30.73,801,160
+225,Ultra Compact Perfume,Beauty & Personal Care,87.13,43.0,842,168
+226,Professional Lightweight Self-Help Book,Books,442.84,197.81,738,147
+227,Professional Heavy-Duty Notebook,Office Supplies,143.33,85.79,265,53
+228,Ultra Ergonomic Air Freshener,Automotive,115.63,64.02,170,34
+229,Ultra Wireless Biography,Books,342.33,197.85,380,76
+230,Smart Snack Pack Pro,Food & Beverage,203.68,118.09,129,25
+231,Advanced Webcam Pro,Electronics,386.0,242.89,767,153
+232,Professional Wireless Action Figure,Toys & Games,253.72,134.27,799,159
+233,Durable Mirror Pro,Home & Garden,255.13,165.84,894,178
+234,Professional Ergonomic Novel,Books,223.75,120.36,275,55
+235,Premium Lightweight Dress,Clothing,290.97,178.32,750,150
+236,Premium Wireless Face Cream,Beauty & Personal Care,20.22,10.06,907,181
+237,Ultra High-Performance Stapler,Office Supplies,53.18,34.74,120,24
+238,Premium Lightweight Tent,Sports & Outdoors,266.74,138.37,789,157
+239,Ultra Digital Action Figure,Toys & Games,391.77,165.68,921,184
+240,Ultra Premium Shoes,Clothing,366.42,236.59,30,6
+241,Wireless Rug Pro,Home & Garden,135.42,61.22,343,68
+242,Premium Portable Vase,Home & Garden,237.34,135.08,826,165
+243,Heavy-Duty Stapler Plus,Office Supplies,325.07,226.24,439,87
+244,Premium Portable Cookbook,Books,43.46,23.15,278,55
+245,Professional Lightweight Action Figure,Toys & Games,182.45,77.04,536,107
+246,Professional Smart Air Freshener,Automotive,190.68,92.69,65,13
+247,Compact Shorts Plus,Clothing,281.62,179.55,269,53
+248,Lightweight Cable Pro,Electronics,167.55,90.93,729,145
+249,Professional Compact Lamp,Home & Garden,407.37,265.28,998,199
+250,Smart Jacket Pro,Clothing,356.73,248.75,590,118
+251,Lightweight Protein Bar Pro,Food & Beverage,188.31,127.18,642,128
+252,Premium Perfume Plus,Beauty & Personal Care,35.66,21.01,78,15
+253,Professional Premium Novel,Books,283.4,146.23,508,101
+254,Ultra Portable Building Blocks,Toys & Games,49.94,29.92,466,93
+255,Premium Heavy-Duty Cookbook,Books,73.19,44.84,523,104
+256,Premium Durable Sweater,Clothing,325.31,162.18,368,73
+257,Premium Heavy-Duty Vase,Home & Garden,259.16,105.08,56,11
+258,Ultra Digital Puzzle,Toys & Games,474.36,258.94,511,102
+259,Professional Portable Yoga Mat,Sports & Outdoors,154.94,98.61,879,175
+260,High-Performance Protein Bar Plus,Food & Beverage,28.5,14.28,580,116
+261,Premium Lightweight Pen Set,Office Supplies,85.58,38.88,170,34
+262,Premium High-Performance Pen Set,Office Supplies,31.41,16.0,376,75
+263,Ultra Lightweight Tent,Sports & Outdoors,378.67,240.51,161,32
+264,Ultra Digital Backpack,Sports & Outdoors,483.14,306.94,261,52
+265,Heavy-Duty Dumbbell Plus,Sports & Outdoors,492.38,265.15,791,158
+266,Durable Doll Plus,Toys & Games,215.14,96.52,105,21
+267,Ultra Portable Backpack,Sports & Outdoors,35.57,19.36,915,183
+268,Wireless Self-Help Book Plus,Books,427.07,207.35,587,117
+269,Compact Curtains Plus,Home & Garden,82.2,43.67,690,138
+270,Professional Premium Tent,Sports & Outdoors,213.3,110.69,740,148
+271,Professional Ergonomic Textbook,Books,193.71,79.12,118,23
+272,Portable Dress Pro,Clothing,28.77,19.43,233,46
+273,Premium High-Performance Phone Mount,Automotive,229.81,92.29,758,151
+274,Advanced T-Shirt Pro,Clothing,419.13,236.66,521,104
+275,Professional Ergonomic File Folder,Office Supplies,390.32,183.95,2,0
+276,Premium Digital T-Shirt,Clothing,323.09,189.6,45,9
+277,Compact Jeans Plus,Clothing,272.67,160.76,879,175
+278,High-Performance Pen Set Pro,Office Supplies,152.72,61.16,883,176
+279,Premium Lightweight Textbook,Books,101.78,61.12,12,2
+280,Wireless Snack Pack Plus,Food & Beverage,276.6,175.9,250,50
+281,Premium Smart Protein Bar,Food & Beverage,437.93,180.89,47,9
+282,Professional Advanced Face Cream,Beauty & Personal Care,184.98,77.74,483,96
+283,Professional Heavy-Duty Water Bottle,Sports & Outdoors,388.04,240.8,372,74
+284,Ultra Smart Textbook,Books,277.55,178.76,392,78
+285,Premium High-Performance Clock,Home & Garden,319.55,205.61,942,188
+286,Ultra Smart Socks,Clothing,108.78,69.33,153,30
+287,Advanced Speaker Plus,Electronics,205.13,132.23,183,36
+288,Smart Dash Cam Pro,Automotive,150.19,98.92,953,190
+289,Professional Advanced Speaker,Electronics,401.68,213.33,983,196
+290,Ultra Ergonomic Perfume,Beauty & Personal Care,487.12,267.36,878,175
+291,Ultra Durable Dash Cam,Automotive,402.56,248.83,36,7
+292,Lightweight Shorts Pro,Clothing,277.28,137.63,566,113
+293,Ultra Heavy-Duty Dress,Clothing,160.18,93.03,822,164
+294,Premium High-Performance Lotion,Beauty & Personal Care,182.26,75.22,935,187
+295,Ultra Ergonomic Self-Help Book,Books,323.34,206.11,731,146
+296,Premium Heavy-Duty Keyboard,Electronics,188.02,120.39,758,151
+297,Portable Lamp Plus,Home & Garden,342.26,181.89,671,134
+298,Ultra Digital Vase,Home & Garden,187.45,128.37,429,85
+299,Premium Heavy-Duty Monitor,Electronics,474.92,242.97,229,45
+300,Ultra Durable Jacket,Clothing,205.04,121.97,329,65
+301,Smart Basketball Pro,Sports & Outdoors,254.53,131.36,254,50
+302,Ultra Advanced Coffee,Food & Beverage,354.98,164.84,426,85
+303,Premium High-Performance Desk Organizer,Office Supplies,108.09,47.64,937,187
+304,Premium Portable Socks,Clothing,498.66,320.72,737,147
+305,Professional High-Performance Cookbook,Books,279.5,136.15,327,65
+306,High-Performance Puzzle Pro,Toys & Games,398.91,220.45,277,55
+307,Portable Shoes Pro,Clothing,397.28,162.04,845,169
+308,Premium Premium Protein Bar,Food & Beverage,403.79,228.34,79,15
+309,Ultra Wireless Notebook,Office Supplies,205.1,126.15,585,117
+310,Ergonomic Air Freshener Plus,Automotive,46.14,31.92,381,76
+311,Compact Socks Plus,Clothing,178.81,118.62,122,24
+312,Portable Protein Bar Pro,Food & Beverage,221.98,149.44,514,102
+313,Durable Keyboard Pro,Electronics,159.02,71.33,689,137
+314,Ultra Durable Dumbbell,Sports & Outdoors,424.51,201.72,923,184
+315,Ultra Portable Snack Pack,Food & Beverage,311.07,133.15,53,10
+316,Portable Cushion Plus,Home & Garden,363.11,211.16,183,36
+317,Professional Smart Notebook,Office Supplies,32.28,19.12,228,45
+318,Heavy-Duty Desk Organizer Pro,Office Supplies,385.81,202.54,823,164
+319,Heavy-Duty Cable Plus,Electronics,151.94,104.38,528,105
+320,Premium Heavy-Duty Phone Mount,Automotive,155.74,65.71,47,9
+321,Premium Compact Monitor,Electronics,247.28,114.05,976,195
+322,Ultra Premium Pen Set,Office Supplies,369.76,243.39,410,82
+323,Premium Lotion Plus,Beauty & Personal Care,285.21,141.39,70,14
+324,Premium Advanced Car Charger,Automotive,131.48,56.41,898,179
+325,Premium Lightweight Doll,Toys & Games,131.65,86.84,476,95
+326,Ultra Lightweight Plant Pot,Home & Garden,103.02,46.13,886,177
+327,Ultra Compact Energy Drink,Food & Beverage,253.71,108.34,289,57
+328,Compact Soap Pro,Beauty & Personal Care,115.42,58.39,792,158
+329,Compact Headphones Plus,Electronics,442.35,263.76,865,173
+330,Professional Durable Dash Cam,Automotive,425.11,225.0,318,63
+331,Ultra Ergonomic Action Figure,Toys & Games,32.17,13.36,335,67
+332,Premium Tea Plus,Food & Beverage,151.41,78.11,88,17
+333,Lightweight Dash Cam Plus,Automotive,68.22,47.24,566,113
+334,Premium Face Cream Plus,Beauty & Personal Care,470.08,294.5,467,93
+335,Premium Durable Backpack,Sports & Outdoors,255.04,105.48,8,1
+336,Compact Plant Pot Plus,Home & Garden,233.92,136.11,377,75
+337,Premium Tea Plus,Food & Beverage,166.08,86.01,205,41
+338,Ultra Lightweight Desk Organizer,Office Supplies,258.58,142.97,298,59
+339,Professional Compact Dash Cam,Automotive,190.5,114.71,577,115
+340,Professional Advanced Soap,Beauty & Personal Care,302.49,145.09,803,160
+341,Professional Digital File Folder,Office Supplies,295.93,133.51,311,62
+342,Portable Stapler Pro,Office Supplies,25.47,17.43,757,151
+343,Premium Smart Shoes,Clothing,163.71,72.92,637,127
+344,Durable Tent Plus,Sports & Outdoors,461.06,305.15,248,49
+345,Durable Monitor Pro,Electronics,284.83,199.22,475,95
+346,Premium Air Freshener Pro,Automotive,235.24,131.72,377,75
+347,Ultra Heavy-Duty Snack Pack,Food & Beverage,308.94,141.4,605,121
+348,Ultra Durable Dumbbell,Sports & Outdoors,120.18,83.15,995,199
+349,High-Performance Action Figure Pro,Toys & Games,348.22,190.37,505,101
+350,Ultra Durable Dash Cam,Automotive,151.02,86.39,791,158
+351,Ultra Ergonomic Energy Drink,Food & Beverage,477.76,306.43,794,158
+352,Professional Advanced Board Game,Toys & Games,179.72,95.74,200,40
+353,Digital Doll Pro,Toys & Games,415.7,200.09,750,150
+354,Professional Portable Snack Pack,Food & Beverage,311.68,179.54,922,184
+355,Heavy-Duty Basketball Plus,Sports & Outdoors,120.58,56.65,559,111
+356,Premium Premium Shorts,Clothing,59.27,37.41,778,155
+357,Premium Ergonomic Monitor,Electronics,243.95,112.18,815,163
+358,Professional Advanced Action Figure,Toys & Games,454.89,194.16,251,50
+359,Professional Durable Pen Set,Office Supplies,457.48,207.02,154,30
+360,Premium Ergonomic Lamp,Home & Garden,101.29,63.28,6,1
+361,Ultra Smart Board Game,Toys & Games,288.3,124.6,954,190
+362,Compact Cookbook Plus,Books,266.92,177.98,419,83
+363,Advanced Clock Pro,Home & Garden,406.32,202.84,24,4
+364,High-Performance Dash Cam Pro,Automotive,16.9,8.47,238,47
+365,Heavy-Duty Building Blocks Pro,Toys & Games,95.99,63.05,554,110
+366,Ultra Durable Perfume,Beauty & Personal Care,52.5,31.54,354,70
+367,Ultra Compact Cushion,Home & Garden,468.55,188.38,651,130
+368,Ultra Compact Lotion,Beauty & Personal Care,477.48,234.24,859,171
+369,Ultra Advanced Notebook,Office Supplies,349.46,146.3,710,142
+370,Advanced Socks Pro,Clothing,208.65,114.92,898,179
+371,Ultra Heavy-Duty Board Game,Toys & Games,190.1,88.64,9,1
+372,Premium Portable Clock,Home & Garden,376.39,218.95,973,194
+373,Compact Soap Plus,Beauty & Personal Care,402.98,261.0,343,68
+374,Professional Lightweight Water Bottle,Sports & Outdoors,267.5,149.39,1,0
+375,Professional Lightweight Novel,Books,40.26,22.72,777,155
+376,Lightweight Tea Plus,Food & Beverage,83.43,41.58,673,134
+377,Wireless Energy Drink Pro,Food & Beverage,361.29,197.5,385,77
+378,Premium Smart Energy Drink,Food & Beverage,74.65,39.16,869,173
+379,Premium Durable Notebook,Office Supplies,339.66,167.27,755,151
+380,Professional Advanced Charger,Electronics,375.44,215.31,744,148
+381,Professional Premium Charger,Electronics,275.17,115.04,314,62
+382,Ultra Smart Socks,Clothing,210.34,132.66,106,21
+383,Premium Ergonomic Face Cream,Beauty & Personal Care,436.11,293.08,210,42
+384,Heavy-Duty Shampoo Plus,Beauty & Personal Care,75.17,49.47,542,108
+385,Premium Durable Jacket,Clothing,269.13,166.42,243,48
+386,Ultra Smart Basketball,Sports & Outdoors,236.87,145.85,429,85
+387,Ergonomic Soap Pro,Beauty & Personal Care,131.28,66.15,503,100
+388,Professional High-Performance Puzzle,Toys & Games,25.79,15.42,984,196
+389,Digital Notebook Pro,Office Supplies,42.97,24.84,61,12
+390,Professional Digital Car Charger,Automotive,207.11,97.4,995,199
+391,Portable Basketball Plus,Sports & Outdoors,496.81,233.62,145,29
+392,Lightweight Desk Organizer Plus,Office Supplies,388.54,250.81,728,145
+393,Portable Dumbbell Plus,Sports & Outdoors,118.31,57.99,286,57
+394,Premium Heavy-Duty Monitor,Electronics,282.37,116.92,95,19
+395,Ultra Durable Biography,Books,351.19,183.49,44,8
+396,Portable Doll Plus,Toys & Games,242.02,158.48,943,188
+397,Professional Compact Puzzle,Toys & Games,285.57,197.14,237,47
+398,Premium Portable Protein Bar,Food & Beverage,129.0,59.47,918,183
+399,Professional Premium Socks,Clothing,272.46,176.78,865,173
+400,Ergonomic Headphones Plus,Electronics,305.43,202.22,532,106
+401,High-Performance Backpack Plus,Sports & Outdoors,116.34,53.83,422,84
+402,Smart Cookbook Pro,Books,469.21,323.11,717,143
+403,Digital Socks Plus,Clothing,354.85,184.16,917,183
+404,Ultra Premium Backpack,Sports & Outdoors,196.52,110.07,381,76
+405,Ultra Advanced Cookbook,Books,261.28,143.49,469,93
+406,Premium Socks Pro,Clothing,191.65,100.46,997,199
+407,High-Performance Pen Set Pro,Office Supplies,17.95,10.16,765,153
+408,Premium High-Performance File Folder,Office Supplies,154.64,70.96,86,17
+409,Lightweight Tent Pro,Sports & Outdoors,254.66,151.87,594,118
+410,Premium Compact Cookbook,Books,235.81,146.16,97,19
+411,Portable Textbook Plus,Books,249.27,168.27,517,103
+412,Professional Durable Coffee,Food & Beverage,421.14,177.85,136,27
+413,Ergonomic Mouse Pro,Electronics,422.85,198.5,652,130
+414,Digital Lamp Plus,Home & Garden,233.44,97.61,839,167
+415,Premium Heavy-Duty Stapler,Office Supplies,17.71,9.91,403,80
+416,Smart Shampoo Plus,Beauty & Personal Care,363.87,204.03,76,15
+417,Premium Durable Board Game,Toys & Games,405.02,272.55,606,121
+418,Durable Jeans Pro,Clothing,128.07,75.04,581,116
+419,Premium Advanced Action Figure,Toys & Games,48.72,33.51,63,12
+420,High-Performance Phone Mount Pro,Automotive,156.99,101.8,445,89
+421,Premium Wireless T-Shirt,Clothing,195.84,110.81,678,135
+422,High-Performance Mouse Pro,Electronics,50.52,33.02,987,197
+423,Wireless Self-Help Book Plus,Books,460.38,215.89,133,26
+424,Professional Advanced Stapler,Office Supplies,462.84,280.17,242,48
+425,Professional Lightweight Building Blocks,Toys & Games,97.88,64.12,298,59
+426,Lightweight Webcam Pro,Electronics,378.6,232.39,267,53
+427,Advanced Shampoo Pro,Beauty & Personal Care,286.34,163.22,871,174
+428,Premium Premium Soap,Beauty & Personal Care,380.25,168.06,322,64
+429,Professional Smart Dress,Clothing,224.17,146.07,948,189
+430,Lightweight Self-Help Book Plus,Books,204.38,129.18,820,164
+431,Premium Compact Headphones,Electronics,121.79,68.92,402,80
+432,Portable Perfume Plus,Beauty & Personal Care,333.73,142.07,717,143
+433,Professional Digital Desk Organizer,Office Supplies,50.2,22.4,851,170
+434,Ultra Premium Mirror,Home & Garden,62.21,24.98,753,150
+435,Ultra Premium Doll,Toys & Games,60.09,25.61,334,66
+436,Durable Perfume Plus,Beauty & Personal Care,261.1,112.53,325,65
+437,Professional Durable Dress,Clothing,302.49,192.18,463,92
+438,Premium Advanced Shampoo,Beauty & Personal Care,200.02,85.09,278,55
+439,Lightweight Tea Plus,Food & Beverage,93.1,47.87,239,47
+440,Ultra Advanced Curtains,Home & Garden,251.63,105.43,76,15
+441,Ultra Ergonomic Face Cream,Beauty & Personal Care,247.27,104.61,966,193
+442,Premium High-Performance Puzzle,Toys & Games,300.97,138.04,207,41
+443,Professional Advanced Jacket,Clothing,474.92,237.3,139,27
+444,Premium Premium Stapler,Office Supplies,174.02,112.18,798,159
+445,Ultra Advanced Pen Set,Office Supplies,305.57,185.97,788,157
+446,Premium Portable Dash Cam,Automotive,484.68,236.25,598,119
+447,Premium Premium Phone Mount,Automotive,147.35,93.68,111,22
+448,Lightweight Novel Pro,Books,300.19,169.21,159,31
+449,Premium High-Performance Coffee,Food & Beverage,472.06,218.51,108,21
+450,Premium Ergonomic Board Game,Toys & Games,78.2,38.38,168,33
+451,Premium High-Performance Puzzle,Toys & Games,396.65,167.46,460,92
+452,Premium Lightweight Stapler,Office Supplies,271.84,184.05,477,95
+453,Ultra Smart Soap,Beauty & Personal Care,353.8,227.74,321,64
+454,Wireless Notebook Pro,Office Supplies,332.22,168.27,416,83
+455,Premium Lightweight Notebook,Office Supplies,483.74,241.62,123,24
+456,Professional Smart Shampoo,Beauty & Personal Care,136.78,75.67,548,109
+457,Lightweight Protein Bar Plus,Food & Beverage,118.31,60.6,366,73
+458,Professional Premium Phone Mount,Automotive,246.56,120.48,987,197
+459,High-Performance Jeans Pro,Clothing,180.68,90.87,788,157
+460,Ultra Compact Backpack,Sports & Outdoors,243.32,129.31,212,42
+461,Ultra Wireless Dash Cam,Automotive,31.89,19.56,462,92
+462,Professional Heavy-Duty Speaker,Electronics,341.8,153.57,315,63
+463,Portable Backpack Plus,Sports & Outdoors,88.47,50.25,474,94
+464,Ergonomic Phone Mount Pro,Automotive,101.33,60.51,271,54
+465,High-Performance Shampoo Plus,Beauty & Personal Care,442.72,236.8,872,174
+466,Smart Perfume Pro,Beauty & Personal Care,110.83,69.35,122,24
+467,Durable Jeans Pro,Clothing,189.24,86.88,92,18
+468,Premium Heavy-Duty Sweater,Clothing,268.58,158.93,161,32
+469,Premium Lightweight Stapler,Office Supplies,297.63,150.12,826,165
+470,Ultra Heavy-Duty Phone Mount,Automotive,460.15,265.53,702,140
+471,Wireless Plant Pot Pro,Home & Garden,159.64,72.62,311,62
+472,Ergonomic Mirror Plus,Home & Garden,77.55,39.95,846,169
+473,Heavy-Duty Clock Plus,Home & Garden,349.78,207.62,721,144
+474,Ultra Compact Cushion,Home & Garden,78.75,38.93,713,142
+475,Professional Premium Car Charger,Automotive,247.46,113.47,617,123
+476,Premium Durable Soap,Beauty & Personal Care,210.48,115.24,41,8
+477,Professional Portable Air Freshener,Automotive,287.04,183.35,220,44
+478,Ultra Smart Dumbbell,Sports & Outdoors,120.17,58.47,855,171
+479,Durable Air Freshener Plus,Automotive,65.47,28.43,877,175
+480,Professional Durable Snack Pack,Food & Beverage,382.4,203.59,335,67
+481,Wireless Tent Pro,Sports & Outdoors,155.88,109.08,151,30
+482,Professional Premium Dash Cam,Automotive,225.14,157.19,93,18
+483,High-Performance Yoga Mat Plus,Sports & Outdoors,347.68,228.88,728,145
+484,Portable Stapler Plus,Office Supplies,78.23,36.14,254,50
+485,Ultra Lightweight Basketball,Sports & Outdoors,270.82,156.82,991,198
+486,Ultra High-Performance Plant Pot,Home & Garden,151.77,72.88,364,72
+487,Premium Portable Coffee,Food & Beverage,460.2,321.1,405,81
+488,Digital Cushion Pro,Home & Garden,358.58,232.56,525,105
+489,Portable Perfume Plus,Beauty & Personal Care,319.88,188.2,50,10
+490,Professional Wireless Perfume,Beauty & Personal Care,207.4,129.61,693,138
+491,Ultra Compact Biography,Books,295.16,195.0,306,61
+492,Ultra Heavy-Duty Socks,Clothing,426.55,272.44,266,53
+493,Ergonomic Lotion Pro,Beauty & Personal Care,252.41,125.41,839,167
+494,Durable Action Figure Plus,Toys & Games,73.99,48.52,178,35
+495,Professional Smart Novel,Books,316.83,206.26,31,6
+496,Premium Portable Keyboard,Electronics,233.69,163.01,974,194
+497,High-Performance Lotion Pro,Beauty & Personal Care,442.25,216.95,414,82
+498,Ultra Heavy-Duty Board Game,Toys & Games,132.69,67.88,875,175
+499,Ultra Ergonomic Lamp,Home & Garden,365.73,229.16,463,92
+500,Professional High-Performance Shampoo,Beauty & Personal Care,10.53,5.72,569,113
