@@ -1,0 +1,32 @@
+bundle:
+  name: e_commerce_medallion
+
+include:
+  - resources/*.yml
+
+variables:
+  catalog:
+    description: Unity Catalog catalog that holds the pipeline output tables
+    default: workspace
+  schema:
+    description: Target schema for the pipeline output tables
+    default: e_commerce_dev
+  source_volume:
+    description: UC volume holding the source CSV files (customers, orders, products)
+    default: /Volumes/workspace/dev/medallion_data
+
+targets:
+  dev:
+    default: true
+    mode: development
+    variables:
+      catalog: workspace
+      schema: e_commerce_dev
+
+  main:
+    mode: production
+    workspace:
+      root_path: /Workspace/Users/shatru.tiwari@tothenew.com/.bundle/${bundle.name}/${bundle.target}
+    variables:
+      catalog: workspace
+      schema: e_commerce

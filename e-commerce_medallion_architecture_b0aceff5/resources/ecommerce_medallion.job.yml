@@ -1,0 +1,13 @@
+resources:
+  jobs:
+    ecommerce_medallion_job:
+      name: e-commerce-medallion-job
+
+      tasks:
+        - task_key: run_medallion_pipeline
+          pipeline_task:
+            pipeline_id: ${resources.pipelines.ecommerce_medallion_pipeline.id}
+
+      permissions:
+        - level: CAN_VIEW
+          group_name: users

@@ -1,0 +1,29 @@
+resources:
+  pipelines:
+    ecommerce_medallion_pipeline:
+      name: e-commerce-medallion-pipeline
+
+      catalog: ${var.catalog}
+      target: ${var.schema}
+
+      libraries:
+        - glob:
+            include: ../src/bronze/**
+        - glob:
+            include: ../src/silver/**
+        - glob:
+            include: ../src/gold/**
+
+      root_path: ../src
+
+      serverless: true
+      photon: true
+      channel: current
+      continuous: false
+
+      configuration:
+        source_volume: ${var.source_volume}
+
+      permissions:
+        - level: CAN_VIEW
+          group_name: users
